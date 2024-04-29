@@ -13,6 +13,8 @@
   By specifying the endpoints.yml file, you can configure the endpoints used by Rasa, such as setting the address and port of the action server. Once the chat terminal is launched, you can interact with the trained Rasa model, asking it questions and viewing its responses.
 
 - then you are able to talk to your robot,you can input your intent to get its answer.
+- ![905ca2a30307b7b651ed1ec66328e15](https://github.com/whispercat777/whispercat777/assets/142243122/035e4813-3c04-4059-b480-119dc9551805)
+
 - you can also stop by typing"/stop"
 
 - （We can use vscode/pycharm or cmd's terminal）
